@@ -1,0 +1,13 @@
+School Info
+Name,Address,Phone,Number of Students,Number of Teachers
+ABC High School,123 Main St,1234567890,500,20
+""
+Students
+Name,Family Name,Age,Gender,Nationality,Subjects Taken
+Emma,Johnson,16,female,American,"Math, Science"
+Michael,Brown,17,male,Australian,"History, English"
+""
+Teachers
+Name,Family Name,Age,Gender,Nationality,Subjects Taught
+David,Lee,40,male,Korean,Math
+Sophia,Garcia,35,female,Spanish,Science
